@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (firstProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,87): warning C4244:         with
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,87): warning C4244:         [
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,87): warning C4244:             T=float
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,87): warning C4244:         ]
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,66): warning C4244:         with
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,66): warning C4244:         [
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,66): warning C4244:             T=float
+C:\Users\faiza\source\repos\firstProject\firstProject\Game.cpp(67,66): warning C4244:         ]
+  main.cpp
+  Generating Code...
+  firstProject.vcxproj -> C:\Users\faiza\source\repos\firstProject\x64\Debug\911.exe
